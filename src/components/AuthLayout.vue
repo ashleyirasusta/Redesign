@@ -31,11 +31,11 @@
 const props = defineProps({
   logo: {
     type: String,
-    default: '/src/assets/logos/vandelay industries logo.svg'
+    default: '/logo/vandelay-industries-logo.svg'
   },
   backgroundImage: {
     type: String,
-    default: '/src/assets/icons/Image.png'
+    default: '/img/Image.png'
   },
   footerLinks: {
     type: Array,

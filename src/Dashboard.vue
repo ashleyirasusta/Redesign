@@ -3,7 +3,7 @@
     <!-- Sidebar -->
     <aside class="sidebar">
       <div class="sidebar-brand">
-        <img src="/src/assets/logos/vandelay industries logo.svg" alt="Vandelay Industries" class="sidebar-logo" />
+        <img src="/logo/vandelay-industries-logo.svg" alt="Vandelay Industries" class="sidebar-logo" />
       </div>
       <div class="sidebar-main">
         <nav class="sidebar-nav">
@@ -121,14 +121,14 @@
           </div>
           <div class="promo-chakra-logo">
             <div class="chakra-logo-stack">
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
-              <img src="/src/assets/logos/chakra logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
+              <img src="/logo/chakra-logo.svg" alt="Chakra Logo" class="chakra-logo-img" />
             </div>
           </div>
         </div>
@@ -418,10 +418,10 @@
                 <span>Chakra Soft UI Version</span>
               </div>
               <div class="projects-members">
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
               </div>
               <div class="projects-budget">$14,000</div>
               <div class="projects-completion">
@@ -438,8 +438,8 @@
                 <span>Add Progress Track</span>
               </div>
               <div class="projects-members">
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
               </div>
               <div class="projects-budget">$3,000</div>
               <div class="projects-completion">
@@ -456,7 +456,7 @@
                 <span>Fix Platform Errors</span>
               </div>
               <div class="projects-members">
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
               </div>
               <div class="projects-budget">-</div>
               <div class="projects-completion">
@@ -473,9 +473,9 @@
                 <span>Launch our Mobile App</span>
               </div>
               <div class="projects-members">
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
               </div>
               <div class="projects-budget">$32,000</div>
               <div class="projects-completion">
@@ -492,7 +492,7 @@
                 <span>Redesign New Online Shop</span>
               </div>
               <div class="projects-members">
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
               </div>
               <div class="projects-budget">$7,600</div>
               <div class="projects-completion">
@@ -509,8 +509,8 @@
                 <span>Figma Redesign</span>
               </div>
               <div class="projects-members">
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
-                <img src="/src/assets/icons/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
+                <img src="/img/Image.png" class="projects-avatar"/>
               </div>
               <div class="projects-budget">$9,500</div>
               <div class="projects-completion">
@@ -1063,7 +1063,7 @@ onBeforeUnmount(() => {
 .promo-rockets-bg {
   position: absolute;
   inset: 0;
-  background-image: url('/src/assets/images/Rockets.png');
+  background-image: url('/Rockets.png');
   background-size: cover;
   background-position: center;
   z-index: 1;

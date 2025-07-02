@@ -6,9 +6,9 @@ const props = defineProps({
   }
 });
 const iconSrc = {
-  facebook: '/src/assets/icons/Facebook.svg',
-  google: '/src/assets/icons/Google.svg',
-  apple: '/src/assets/icons/Apple Inc.svg',
+  facebook: '/icons/Facebook.svg',
+  google: '/icons/Google.svg',
+  apple: '/icons/Apple Inc.svg',
 };
 </script>
 <template>
