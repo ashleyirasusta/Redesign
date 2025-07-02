@@ -28,8 +28,8 @@ A modern, modular Vue 3 app featuring reusable authentication layouts, configura
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/ashleyirasusta/Redesign.git
+   cd Redesign
    ```
 2. **Install dependencies**
    ```sh
