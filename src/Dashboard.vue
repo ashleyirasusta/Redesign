@@ -1063,7 +1063,7 @@ onBeforeUnmount(() => {
 .promo-rockets-bg {
   position: absolute;
   inset: 0;
-  background-image: url('/Rockets.png');
+  background-image: url('/img/Rockets.png');
   background-size: cover;
   background-position: center;
   z-index: 1;
