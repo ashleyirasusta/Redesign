@@ -5,9 +5,6 @@ import AuthFormLayout from './components/AuthFormLayout.vue';
 import SocialIcons from './components/SocialIcons.vue';
 import PasswordField from './components/PasswordField.vue';
 import Divider from './components/Divider.vue';
-import FacebookIcon from './components/FacebookIcon.vue';
-import GoogleIcon from './components/GoogleIcon.vue';
-import AppleIcon from './components/AppleIcon.vue';
 import '@/assets/auth.css';
 
 const fullName = ref('');
@@ -42,13 +39,6 @@ const confirmPassword = ref('');
           Already have an account? <a href="/signin" @click.prevent="$router.push('/signin')">Sign In</a>
         </div>
       </template>
-      <template #right>
-        <!-- Brand/illustration section -->
-      </template>
     </AuthFormLayout>
   </AuthLayout>
 </template>
-
-<style>
-/* No custom styles needed, all handled by imported CSS */
-</style> 

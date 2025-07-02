@@ -6,9 +6,6 @@ import AuthFormLayout from './components/AuthFormLayout.vue';
 import SocialIcons from './components/SocialIcons.vue';
 import PasswordField from './components/PasswordField.vue';
 import Divider from './components/Divider.vue';
-import FacebookIcon from './components/FacebookIcon.vue';
-import GoogleIcon from './components/GoogleIcon.vue';
-import AppleIcon from './components/AppleIcon.vue';
 import '@/assets/auth.css';
 
 const email = ref('');
@@ -55,13 +52,6 @@ function handleSignIn(e) {
           Don't have an account? <a href="/" @click.prevent="router.push('/')">Sign Up</a>
         </div>
       </template>
-      <template #right>
-        <!-- Brand/illustration section -->
-      </template>
     </AuthFormLayout>
   </AuthLayout>
 </template>
-
-<style>
-/* No custom styles needed, all handled by imported CSS */
-</style> 
